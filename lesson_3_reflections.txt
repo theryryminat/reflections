@@ -1,1 +1,1 @@
-
+When you are working with another person on a project you should use github repositorys and not keep info local
